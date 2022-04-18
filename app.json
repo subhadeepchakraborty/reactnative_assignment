@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "reactnative_assignment",
+    "slug": "reactnative_assignment",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.reactnative.assignment",
+            "config": {
+                "googleMaps": {
+                    "apiKey": "AIzaSyCm9Tzc6R12b08Tv_YZycKwj0dbBN0stGY"
+                }
+            }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
